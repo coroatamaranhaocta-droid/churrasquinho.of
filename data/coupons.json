@@ -1,0 +1,23 @@
+[
+  {
+    "code": "CHEF10",
+    "value": 10,
+    "type": "percent",
+    "minOrder": 20.00,
+    "isActive": true
+  },
+  {
+    "code": "DESCONTO5",
+    "value": 5,
+    "type": "fixed",
+    "minOrder": 30.00,
+    "isActive": true
+  },
+  {
+    "code": "DECHURRAS",
+    "value": 15,
+    "type": "percent",
+    "minOrder": 50.00,
+    "isActive": true
+  }
+]

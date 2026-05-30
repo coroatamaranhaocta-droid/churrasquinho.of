@@ -1,0 +1,164 @@
+[
+  {
+    "id": "00121",
+    "createdAt": "2026-05-30T12:30:10.000Z",
+    "customerName": "Sebastião Botelho",
+    "phone": "(99) 98454-5370",
+    "address": "Rua das Palmeiras, 45 - Centro",
+    "reference": "Próximo à Praça José Maria",
+    "items": [
+      {
+        "productId": "1",
+        "name": "Espetinho de Carne",
+        "price": 8.00,
+        "quantity": 3
+      },
+      {
+        "productId": "6",
+        "name": "Combo Família",
+        "price": 49.90,
+        "quantity": 1
+      },
+      {
+        "productId": "7",
+        "name": "Coca-Cola Lata 350ml",
+        "price": 5.00,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 78.90,
+    "discount": 14.00,
+    "total": 64.90,
+    "paymentMethod": "pix",
+    "paymentDetails": {
+      "pixReceiptUrl": "/uploads/mock-receipt.png"
+    },
+    "status": "completed"
+  },
+  {
+    "id": "00122",
+    "createdAt": "2026-05-30T15:20:45.000Z",
+    "customerName": "Marta Helena Rocha",
+    "phone": "(99) 98111-2222",
+    "address": "Av. Principal, 1024 - Bairro Novo",
+    "reference": "Em frente à Padaria Pão Quente",
+    "items": [
+      {
+        "productId": "2",
+        "name": "Espetinho de Frango",
+        "price": 7.00,
+        "quantity": 2
+      },
+      {
+        "productId": "4",
+        "name": "Queijo Coalho Grelhado",
+        "price": 6.00,
+        "quantity": 1
+      },
+      {
+        "productId": "10",
+        "name": "Vinagrete do Chef",
+        "price": 4.00,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 24.00,
+    "discount": 1.00,
+    "total": 23.00,
+    "paymentMethod": "dinheiro",
+    "paymentDetails": {
+      "cashChangeFor": "50.00"
+    },
+    "status": "completed"
+  },
+  {
+    "id": "00123",
+    "createdAt": "2026-05-30T18:15:30.000Z",
+    "customerName": "Carlos Eduardo Ribeiro",
+    "phone": "(99) 98222-3333",
+    "address": "Rua 15 de Novembro, 12",
+    "reference": "Atrás do Posto Ipiranga",
+    "items": [
+      {
+        "productId": "1",
+        "name": "Espetinho de Carne",
+        "price": 8.00,
+        "quantity": 4
+      },
+      {
+        "productId": "9",
+        "name": "Farofa Especial do Chef",
+        "price": 4.00,
+        "quantity": 2
+      },
+      {
+        "productId": "7",
+        "name": "Coca-Cola Lata 350ml",
+        "price": 5.00,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 45.00,
+    "discount": 4.00,
+    "total": 41.00,
+    "paymentMethod": "cartao",
+    "paymentDetails": {
+      "cardType": "credito"
+    },
+    "status": "completed"
+  },
+  {
+    "id": "00124",
+    "createdAt": "2026-05-30T20:10:12.000Z",
+    "customerName": "Aline Mendes",
+    "phone": "(99) 98888-9999",
+    "address": "Travessa Maranhão, 88",
+    "reference": "Próximo ao Ginásio de Esportes",
+    "items": [
+      {
+        "productId": "3",
+        "name": "Espetinho de Linguiça",
+        "price": 7.00,
+        "quantity": 2
+      },
+      {
+        "productId": "5",
+        "name": "Pão de Alho Especial",
+        "price": 5.00,
+        "quantity": 1
+      }
+    ],
+    "subtotal": 19.00,
+    "discount": 4.00,
+    "total": 15.00,
+    "paymentMethod": "pix",
+    "paymentDetails": {
+      "pixReceiptUrl": "/uploads/mock-receipt.png"
+    },
+    "status": "pending"
+  },
+  {
+    "id": "00125",
+    "createdAt": "2026-05-29T20:10:00.000Z",
+    "customerName": "Guilherme de Sousa",
+    "phone": "(99) 98777-6666",
+    "address": "Av. Beira Rio, 400",
+    "reference": "Pizzaria Bela Vista",
+    "items": [
+      {
+        "productId": "6",
+        "name": "Combo Família",
+        "price": 49.90,
+        "quantity": 2
+      }
+    ],
+    "subtotal": 99.80,
+    "discount": 14.80,
+    "total": 85.00,
+    "paymentMethod": "pix",
+    "paymentDetails": {
+      "pixReceiptUrl": "/uploads/mock-receipt.png"
+    },
+    "status": "completed"
+  }
+]

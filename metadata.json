@@ -1,0 +1,6 @@
+{
+  "name": "Churrasquinho do Chef",
+  "description": "Cardápio digital profissional para churrasquinho com carrinho de compras, pedidos online via WhatsApp e painel administrativo.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

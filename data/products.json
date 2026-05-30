@@ -1,0 +1,92 @@
+[
+  {
+    "id": "1",
+    "name": "Espetinho de Carne",
+    "description": "Carne bovina selecionada assada na brasa com tempero especial.",
+    "price": 8.00,
+    "category": "espetinhos",
+    "image": "/src/assets/images/espetinho_carne_1780173558201.png",
+    "stock": 50
+  },
+  {
+    "id": "2",
+    "name": "Espetinho de Frango",
+    "description": "Frango temperado especial, peito suculento marinado e assado na brasa.",
+    "price": 7.00,
+    "category": "espetinhos",
+    "image": "/src/assets/images/espetinhos_mistos_1780173574018.png",
+    "stock": 40
+  },
+  {
+    "id": "3",
+    "name": "Espetinho de Linguiça",
+    "description": "Linguiça suína artesanal de alta qualidade dourada na brasa.",
+    "price": 7.00,
+    "category": "espetinhos",
+    "image": "/src/assets/images/espetinhos_mistos_1780173574018.png",
+    "stock": 35
+  },
+  {
+    "id": "4",
+    "name": "Queijo Coalho Grelhado",
+    "description": "Queijo coalho assado na brasa com crosta crocante e pitada de orégano.",
+    "price": 6.00,
+    "category": "espetinhos",
+    "image": "/src/assets/images/queijo_coalho_grelhado_1780173588513.png",
+    "stock": 25
+  },
+  {
+    "id": "5",
+    "name": "Pão de Alho Especial",
+    "description": "Pão crocante recheado com creme de alho do chef e queijo derretido.",
+    "price": 5.00,
+    "category": "adicionais",
+    "image": "/src/assets/images/combo_churrasco_1780173604132.png",
+    "stock": 30
+  },
+  {
+    "id": "6",
+    "name": "Combo Família",
+    "description": "8 espetinhos variados (3 carne, 2 frango, 2 linguiça, 1 queijo) + refrigerante de 2L.",
+    "price": 49.90,
+    "category": "combos",
+    "image": "/src/assets/images/combo_churrasco_1780173604132.png",
+    "stock": 15
+  },
+  {
+    "id": "7",
+    "name": "Coca-Cola Lata 350ml",
+    "description": "Coca-Cola original em lata, servida super gelada.",
+    "price": 5.00,
+    "category": "bebidas",
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500&auto=format&fit=crop&q=60",
+    "stock": 100
+  },
+  {
+    "id": "8",
+    "name": "Guaraná Antarctica 2L",
+    "description": "Garrafa de guaraná 2 litros bem gelada para acompanhar os combos.",
+    "price": 10.00,
+    "category": "bebidas",
+    "image": "https://images.unsplash.com/photo-1622483767028-3f66f32aef97?w=500&auto=format&fit=crop&q=60",
+    "stock": 50
+  },
+  {
+    "id": "9",
+    "name": "Farofa Especial do Chef",
+    "description": "Farofa crocante com pedacinhos de bacon, alho dourado e tempero caseiro.",
+    "price": 4.00,
+    "category": "adicionais",
+    "image": "https://images.unsplash.com/photo-1541532713592-79a0317b6b77?w=500&auto=format&fit=crop&q=60",
+    "stock": 60
+  },
+  {
+    "id": "10",
+    "name": "Vinagrete do Chef",
+    "description": "Vinagrete de tomate, cebola, cheiro-verde, azeite e vinagre suave.",
+    "price": 4.00,
+    "category": "adicionais",
+    "image": "https://images.unsplash.com/photo-1512621776951-a57141f2eefd?w=500&auto=format&fit=crop&q=60",
+    "stock": 60
+  }
+]
